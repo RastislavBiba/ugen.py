@@ -28,7 +28,7 @@ def nickname(forename, middle, surname):
 count_arguments = len(sys.argv)
 def main():
     """
-    Main function to open I/O files
+    Main function to open I/O files from arguments using getopt
     :return:
     output file with list of nickanmes
     """
